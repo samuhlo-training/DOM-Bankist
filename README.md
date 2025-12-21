@@ -1,3 +1,5 @@
+<!-- tinyshow:hidden -->
+
 <div align="center">
 
 <h2>

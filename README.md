@@ -10,7 +10,7 @@
 
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-000000?style=for-the-badge" alt="Status" />
+  
 
   <br />
   <br />

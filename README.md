@@ -18,7 +18,7 @@
 
 ---
 
-### 00. PREVIEW
+### 00 __ PREVIEW
 
 ![Bankist Preview](portada.webp)
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 01. STACK
+### 01 __ STACK
 
 | COMPONENT | TECH | NOTE |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 
 <br>
 
-### 02. INSTALLATION
+### 0 __. INSTALLATION
 
 ```bash
 # 1. Clone
